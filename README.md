@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when our shadows start to sway
+> I taste the magic in the words we never say
+> Your gentle touch is pulling me across the floor
+> I know tonight is what we both been waiting for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
