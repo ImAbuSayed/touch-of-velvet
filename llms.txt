@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/touch-of-velvet/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Touch Of Velvet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-of-velvet/) |
+| **Get License** | [Music Rights & Licensing for Touch Of Velvet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/touch-of-velvet/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
